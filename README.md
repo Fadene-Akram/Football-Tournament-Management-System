@@ -2,6 +2,8 @@
 
 Welcome to the Football Tournament Management System (FTMS) project! This system is designed to streamline the management of a football league championship, specifically focusing on player statistics, game details, and league standings.
 
+![Alt text](Graphical_Representation)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
