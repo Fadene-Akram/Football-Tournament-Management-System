@@ -61,6 +61,8 @@ The running time for various functions was compared using both BST and AVL trees
     - **AVL Tree:** Average running time is 310.45 milliseconds.
     - **BST:** Average running time is 315.99 milliseconds.
 
+![Comparison](Comparison1.png)
+![Comparison](Comparison2.png)
 ## Conclusion
 
 While AVL trees generally offer better performance for large datasets, BSTs can still be useful in certain scenarios. The choice of data structure should be based on the specific requirements and constraints of the project. The performance differences, while present, are not drastic for small to medium-sized datasets.
