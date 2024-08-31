@@ -1,0 +1,21 @@
+# ninja log v5
+5	871	7249643176270117	CMakeFiles/DSA_Project_Final.dir/main.cpp.obj	bc36275d0e76b0f0
+89	1305	7249642041920743	CMakeFiles/DSA_Project_Final.dir/TeamStatistics.cpp.obj	7f8be49f1b55c8e8
+1271	1591	7249643183407166	DSA_Project_Final.exe	151f4f31013871e7
+50	1579	7249642044667125	CMakeFiles/DSA_Project_Final.dir/Player.cpp.obj	31bfa6f0b612a6de
+6	942	7249642038230644	CMakeFiles/DSA_Project_Final.dir/Contract.cpp.obj	c17567a1ef0b759e
+20	1019	7249642039029150	CMakeFiles/DSA_Project_Final.dir/Date.cpp.obj	79a5d5ae6e7ecdd4
+75	1013	7249642039009140	CMakeFiles/DSA_Project_Final.dir/PlayerStatistics.cpp.obj	189b3590d44d6cd
+27	1352	7249642042383719	CMakeFiles/DSA_Project_Final.dir/Game.cpp.obj	12dd6cb3ff692cbf
+63	1746	7249642046330115	CMakeFiles/DSA_Project_Final.dir/Team.cpp.obj	ce9df4b4fcec0525
+11	1162	7249643179164628	CMakeFiles/DSA_Project_Final.dir/File.cpp.obj	3da704e5dcfa707
+17	1271	7249643180264824	CMakeFiles/DSA_Project_Final.dir/Tournament.cpp.obj	e1a4e2b6249290f7
+16	1270	7249848802972872	CMakeFiles/DSA_Project_Final.dir/Game.cpp.obj	12dd6cb3ff692cbf
+10	1309	7249848803366734	CMakeFiles/DSA_Project_Final.dir/Player.cpp.obj	31bfa6f0b612a6de
+22	1630	7249848806557022	CMakeFiles/DSA_Project_Final.dir/Team.cpp.obj	ce9df4b4fcec0525
+5	1938	7249848809621339	CMakeFiles/DSA_Project_Final.dir/File.cpp.obj	3da704e5dcfa707
+28	2080	7249848811059049	CMakeFiles/DSA_Project_Final.dir/Tournament.cpp.obj	e1a4e2b6249290f7
+35	2746	7249848817741314	CMakeFiles/DSA_Project_Final.dir/Main.cpp.obj	783089d16635ff1f
+2748	3227	7249848822464305	DSA_Project_Final.exe	2924b03fb77a7862
+5	1389	7249851216564724	CMakeFiles/DSA_Project_Final.dir/Tournament.cpp.obj	e1a4e2b6249290f7
+1389	1776	7249851220394758	DSA_Project_Final.exe	2924b03fb77a7862
